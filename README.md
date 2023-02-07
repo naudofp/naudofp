@@ -13,7 +13,14 @@
   </a>
 </p>
 
-<h1></h1>
+<p align="center">
+ I started my studies with programming in 2021. <br>
+ I love to working on it, so you'll see a lot of <br>codes and projects here.
+ <br><br>
+  <strong>Email contact <a href="https://mail.google.com/mail/u/0/?tab=Tm#inbox?compose=CllgCJZXhjKKjqQZwzqwgVvwtxdnhndxghkwPtVTRrqgWhKgCWqGLmSnJnLZCkXQthLQMQMCsqB">naudodev@gmail.com</a> </strong> 
+</p>
+
+<hr>
 
 <h3 align="center">I'm working with</h3>
 
@@ -26,7 +33,7 @@
 <img src="https://img.icons8.com/color/256/flutter.png" width="70"/>
 <img src="https://img.icons8.com/color/256/dart.png" width="70"/>
 <img src="https://img.icons8.com/color/256/javascript.png" width="70"/>
-<img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" width="70"/>
+<img src="https://img.icons8.com/color/256/c-sharp-logo.png" width="70"/>
 
 
 </p>
