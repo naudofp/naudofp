@@ -15,7 +15,7 @@
 
 <p align="center">
  I started my studies with programming in 2021. <br>
- I love to working on it, so you'll see many <br>codes and projects here.
+ I love to working on it, so you'll see a lot of <br>codes and projects here.
  <br><br>
   <strong>Email contact <a href="https://mail.google.com/mail/u/0/?tab=Tm#inbox?compose=CllgCJZXhjKKjqQZwzqwgVvwtxdnhndxghkwPtVTRrqgWhKgCWqGLmSnJnLZCkXQthLQMQMCsqB">naudodev@gmail.com</a> </strong> 
 </p>
