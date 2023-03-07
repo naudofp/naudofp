@@ -1,8 +1,9 @@
 <h1 align="center"> Fellipe Naudo</h1>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/7d/b5/2e/7db52e1ff88199b55992979533b48f1a.jpg" width="280"/>&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/106287877/223550201-695d160f-cdc5-48d8-b01d-c35f970e0ac7.jpg" width="280"/>&nbsp;&nbsp;&nbsp;
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naudo-fellipe/" target="_blank">
