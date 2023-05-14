@@ -1,8 +1,9 @@
 <h1 align="center"> Fellipe Naudo</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/106287877/223550201-695d160f-cdc5-48d8-b01d-c35f970e0ac7.jpg" width="280"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/naudofp/naudofp/assets/106287877/1bf99b48-8d7c-4866-8ec4-5e2c6a80c95f" width="280"/>&nbsp;&nbsp;&nbsp;
 </p>
+
 
 
 <p align="center">
