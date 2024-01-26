@@ -10,8 +10,10 @@
 </p>
 
 <p align="center">
-  Brazilian Developer
+  <strong>Brazilian Developer</strong>
+  <br>
   Working on Senior Sistemas
+  <br>
   <strong>Email contact <a href="https://mail.google.com/mail/u/0/?tab=Tm#inbox?compose=CllgCJZXhjKKjqQZwzqwgVvwtxdnhndxghkwPtVTRrqgWhKgCWqGLmSnJnLZCkXQthLQMQMCsqB">naudodev@gmail.com</a> </strong> 
 </p>
 
