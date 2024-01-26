@@ -1,12 +1,6 @@
 <h1 align="center"> Fellipe Naudo</h1>
 
 <p align="center">
-<img src="https://github.com/naudofp/naudofp/assets/106287877/1bf99b48-8d7c-4866-8ec4-5e2c6a80c95f" width="280"/>&nbsp;&nbsp;&nbsp;
-</p>
-
-
-
-<p align="center">
   <a href="https://www.linkedin.com/in/naudo-fellipe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -16,9 +10,8 @@
 </p>
 
 <p align="center">
- I started my studies with programming in 2021. <br>
- I love to working on it, so you'll see a lot of <br>codes and projects here.
- <br><br>
+  Brazilian Developer
+  Working on Senior Sistemas
   <strong>Email contact <a href="https://mail.google.com/mail/u/0/?tab=Tm#inbox?compose=CllgCJZXhjKKjqQZwzqwgVvwtxdnhndxghkwPtVTRrqgWhKgCWqGLmSnJnLZCkXQthLQMQMCsqB">naudodev@gmail.com</a> </strong> 
 </p>
 
