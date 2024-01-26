@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  ![image](https://github.com/naudofp/naudofp/assets/106287877/5a8fb91d-0e0c-4618-991f-9dc25153bf32)
+<img src="https://emojigraph.org/media/google/flag-brazil_1f1e7-1f1f7.png"/>
   <br>
   <strong>I'm Brazilian Developer</strong>
   <br>
