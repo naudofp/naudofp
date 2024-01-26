@@ -29,14 +29,8 @@
 <img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" width="70"/>
 <img src="https://img.icons8.com/color/256/spring-logo.png" width="70"/>
 <img src="https://img.icons8.com/fluency/256/angularjs.png" width="70"/>
-
-<img src="https://img.icons8.com/color/256/mysql-logo.png" width="70"/>
 <img src="https://img.icons8.com/color/256/flutter.png" width="70"/>
-<img src="https://img.icons8.com/color/256/dart.png" width="70"/>
-<img src="https://img.icons8.com/color/256/javascript.png" width="70"/>
 <img src="https://img.icons8.com/color/256/typescript.png" width="70"/>
-<img src="https://img.icons8.com/color/256/c-sharp-logo.png" width="70"/>
-
 </p>
 
 
