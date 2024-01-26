@@ -1,4 +1,4 @@
-![image](https://github.com/naudofp/naudofp/assets/106287877/5a8fb91d-0e0c-4618-991f-9dc25153bf32)<h1 align="center"> Fellipe Naudo  🇧🇷</h1>
+<h1 align="center"> Fellipe Naudo  🇧🇷</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naudo-fellipe/" target="_blank">
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  ![image](https://github.com/naudofp/naudofp/assets/106287877/cf499c58-5c41-4d14-8535-23ae4d90cbce)
-
+  ![image](https://github.com/naudofp/naudofp/assets/106287877/5a8fb91d-0e0c-4618-991f-9dc25153bf32)
+  <br>
   <strong>I'm Brazilian Developer</strong>
   <br>
   Working on Senior Sistemas
