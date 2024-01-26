@@ -1,4 +1,4 @@
-<h1 align="center"> Fellipe Naudo</h1>
+<h1 align="center"> Fellipe Naudo  🇧🇷</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naudo-fellipe/" target="_blank">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Brazilian Developer</strong>
+  <strong> 🇧🇷 Brazilian Developer  🇧🇷</strong>
   <br>
   Working on Senior Sistemas
   <br>
