@@ -10,9 +10,6 @@
 <img src="https://emojigraph.org/media/google/flag-brazil_1f1e7-1f1f7.png"/>
   <br>
   <strong>I'm Brazilian Developer</strong>
-  <br>
-  Working on Senior Sistemas
-  <br>
   Blumenau/SC
   <br>
   <strong>Email to contact <a href="https://mail.google.com/mail/u/0/?tab=Tm#inbox?compose=CllgCJZXhjKKjqQZwzqwgVvwtxdnhndxghkwPtVTRrqgWhKgCWqGLmSnJnLZCkXQthLQMQMCsqB">naudodev@gmail.com</a> </strong> 
